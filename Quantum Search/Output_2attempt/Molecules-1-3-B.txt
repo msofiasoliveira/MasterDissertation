@@ -1,0 +1,913 @@
+Molecules 1, 3
+qy: 8  maxq: 11  qaux: 11  N: 144  M: 1010  m0: 170  J: 9 initial v_threshold:  1110
+Iteration number  1  of 170
+           Making Circuit
+OK registers
+OK init
+OK index to values
+OK minor
+OK mark j
+OK Diffusion
+           time taken (seconds): 7.655235290527344
+           Running Circuit
+           time taken (seconds): 1032.318210363388
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  2  of 170
+           Running Circuit
+           time taken (seconds): 1139.1667563915253
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  3  of 170
+           Running Circuit
+           time taken (seconds): 1137.6532411575317
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  4  of 170
+           Running Circuit
+           time taken (seconds): 1141.5769963264465
+           Getting Results
+           time taken (seconds): 0.0010001659393310547
+Iteration number  5  of 170
+           Running Circuit
+           time taken (seconds): 1139.4406788349152
+           Getting Results
+           time taken (seconds): 0.0
+96 1056
+Iteration number  6  of 170
+           Making Circuit
+OK registers
+OK init
+OK index to values
+OK minor
+OK mark j
+OK Diffusion
+           time taken (seconds): 7.080747365951538
+           Running Circuit
+           time taken (seconds): 1119.152164697647
+           Getting Results
+           time taken (seconds): 0.0
+76 687
+Iteration number  7  of 170
+           Making Circuit
+OK registers
+OK init
+OK index to values
+OK minor
+OK mark j
+OK Diffusion
+           time taken (seconds): 7.220701456069946
+           Running Circuit
+           time taken (seconds): 1166.870897769928
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  8  of 170
+           Running Circuit
+           time taken (seconds): 1161.2387096881866
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  9  of 170
+           Running Circuit
+           time taken (seconds): 1167.4247207641602
+           Getting Results
+           time taken (seconds): 0.0
+76 687
+Iteration number  10  of 170
+           Running Circuit
+           time taken (seconds): 1167.4187338352203
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  11  of 170
+           Running Circuit
+           time taken (seconds): 1163.671931028366
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  12  of 170
+           Running Circuit
+           time taken (seconds): 1164.984512090683
+           Getting Results
+           time taken (seconds): 0.0
+106 582
+Iteration number  13  of 170
+           Making Circuit
+OK registers
+OK init
+OK index to values
+OK minor
+OK mark j
+OK Diffusion
+           time taken (seconds): 7.331655740737915
+           Running Circuit
+           time taken (seconds): 1142.1018280982971
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  14  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  15  of 170
+           Running Circuit
+           time taken (seconds): 1141.3560667037964
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  16  of 170
+           Running Circuit
+           time taken (seconds): 1143.2704553604126
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  17  of 170
+           Running Circuit
+           time taken (seconds): 0.0009996891021728516
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  18  of 170
+           Running Circuit
+           time taken (seconds): 1145.7176713943481
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  19  of 170
+           Running Circuit
+           time taken (seconds): 1144.552034854889
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  20  of 170
+           Running Circuit
+           time taken (seconds): 1143.3394329547882
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  21  of 170
+           Running Circuit
+           time taken (seconds): 1130.5105352401733
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  22  of 170
+           Running Circuit
+           time taken (seconds): 1132.3489367961884
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  23  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  24  of 170
+           Running Circuit
+           time taken (seconds): 1131.5501918792725
+           Getting Results
+           time taken (seconds): 0.0009996891021728516
+Iteration number  25  of 170
+           Running Circuit
+           time taken (seconds): 0.0010004043579101562
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  26  of 170
+           Running Circuit
+           time taken (seconds): 0.0009992122650146484
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  27  of 170
+           Running Circuit
+           time taken (seconds): 0.0010001659393310547
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  28  of 170
+           Running Circuit
+           time taken (seconds): 1136.5096173286438
+           Getting Results
+           time taken (seconds): 0.00099945068359375
+Iteration number  29  of 170
+           Running Circuit
+           time taken (seconds): 1136.565589427948
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  30  of 170
+           Running Circuit
+           time taken (seconds): 1138.3860156536102
+           Getting Results
+           time taken (seconds): 0.0009996891021728516
+Iteration number  31  of 170
+           Running Circuit
+           time taken (seconds): 1103.2088086605072
+           Getting Results
+           time taken (seconds): 0.0009999275207519531
+Iteration number  32  of 170
+           Running Circuit
+           time taken (seconds): 1054.7082498073578
+           Getting Results
+           time taken (seconds): 0.00099945068359375
+Iteration number  33  of 170
+           Running Circuit
+           time taken (seconds): 1127.2718949317932
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  34  of 170
+           Running Circuit
+           time taken (seconds): 0.0009989738464355469
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  35  of 170
+           Running Circuit
+           time taken (seconds): 0.0019996166229248047
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  36  of 170
+           Running Circuit
+           time taken (seconds): 1093.1321942806244
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  37  of 170
+           Running Circuit
+           time taken (seconds): 1094.106315612793
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  38  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  39  of 170
+           Running Circuit
+           time taken (seconds): 1153.4831898212433
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  40  of 170
+           Running Circuit
+           time taken (seconds): 1064.3736820220947
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  41  of 170
+           Running Circuit
+           time taken (seconds): 1122.4630978107452
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  42  of 170
+           Running Circuit
+           time taken (seconds): 1141.4160482883453
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  43  of 170
+           Running Circuit
+           time taken (seconds): 1140.9555597305298
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  44  of 170
+           Running Circuit
+           time taken (seconds): 1065.9437627792358
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  45  of 170
+           Running Circuit
+           time taken (seconds): 0.0019996166229248047
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  46  of 170
+           Running Circuit
+           time taken (seconds): 1124.081936120987
+           Getting Results
+           time taken (seconds): 0.0009996891021728516
+Iteration number  47  of 170
+           Running Circuit
+           time taken (seconds): 1046.2639889717102
+           Getting Results
+           time taken (seconds): 0.0009999275207519531
+40 524
+Iteration number  48  of 170
+           Making Circuit
+OK registers
+OK init
+OK index to values
+OK minor
+OK mark j
+OK Diffusion
+           time taken (seconds): 7.266685485839844
+           Running Circuit
+           time taken (seconds): 1106.2642862796783
+           Getting Results
+           time taken (seconds): 0.00099945068359375
+Iteration number  49  of 170
+           Running Circuit
+           time taken (seconds): 1127.0896286964417
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  50  of 170
+           Running Circuit
+           time taken (seconds): 1127.1006255149841
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  51  of 170
+           Running Circuit
+           time taken (seconds): 1129.135973930359
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  52  of 170
+           Running Circuit
+           time taken (seconds): 1124.5794308185577
+           Getting Results
+           time taken (seconds): 0.0010001659393310547
+Iteration number  53  of 170
+           Running Circuit
+           time taken (seconds): 1128.6741223335266
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  54  of 170
+           Running Circuit
+           time taken (seconds): 1129.6128115653992
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  55  of 170
+           Running Circuit
+           time taken (seconds): 1132.6268577575684
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  56  of 170
+           Running Circuit
+           time taken (seconds): 0.0009999275207519531
+           Getting Results
+           time taken (seconds): 0.0009987354278564453
+Iteration number  57  of 170
+           Running Circuit
+           time taken (seconds): 0.00099945068359375
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  58  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  59  of 170
+           Running Circuit
+           time taken (seconds): 1137.0064477920532
+           Getting Results
+           time taken (seconds): 0.0009999275207519531
+Iteration number  60  of 170
+           Running Circuit
+           time taken (seconds): 1144.4420800209045
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  61  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  62  of 170
+           Running Circuit
+           time taken (seconds): 1139.3696908950806
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  63  of 170
+           Running Circuit
+           time taken (seconds): 1137.6992363929749
+           Getting Results
+           time taken (seconds): 0.0009999275207519531
+Iteration number  64  of 170
+           Running Circuit
+           time taken (seconds): 1139.6566104888916
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  65  of 170
+           Running Circuit
+           time taken (seconds): 0.0010001659393310547
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  66  of 170
+           Running Circuit
+           time taken (seconds): 1121.67835855484
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  67  of 170
+           Running Circuit
+           time taken (seconds): 1126.731733083725
+           Getting Results
+           time taken (seconds): 0.0010001659393310547
+Iteration number  68  of 170
+           Running Circuit
+           time taken (seconds): 1126.2638833522797
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  69  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  70  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0009999275207519531
+Iteration number  71  of 170
+           Running Circuit
+           time taken (seconds): 1128.2822370529175
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  72  of 170
+           Running Circuit
+           time taken (seconds): 1130.1726431846619
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  73  of 170
+           Running Circuit
+           time taken (seconds): 1129.756775379181
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  74  of 170
+           Running Circuit
+           time taken (seconds): 1129.7017920017242
+           Getting Results
+           time taken (seconds): 0.0009999275207519531
+Iteration number  75  of 170
+           Running Circuit
+           time taken (seconds): 0.0009984970092773438
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  76  of 170
+           Running Circuit
+           time taken (seconds): 1084.2815582752228
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  77  of 170
+           Running Circuit
+           time taken (seconds): 1127.5034828186035
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  78  of 170
+           Running Circuit
+           time taken (seconds): 1130.7474591732025
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  79  of 170
+           Running Circuit
+           time taken (seconds): 1149.7173929214478
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  80  of 170
+           Running Circuit
+           time taken (seconds): 1141.0151760578156
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  81  of 170
+           Running Circuit
+           time taken (seconds): 1142.5726780891418
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  82  of 170
+           Running Circuit
+           time taken (seconds): 0.00099945068359375
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  83  of 170
+           Running Circuit
+           time taken (seconds): 1137.2543685436249
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  84  of 170
+           Running Circuit
+           time taken (seconds): 1121.1515138149261
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  85  of 170
+           Running Circuit
+           time taken (seconds): 1122.0852284431458
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  86  of 170
+           Running Circuit
+           time taken (seconds): 1124.2515258789062
+           Getting Results
+           time taken (seconds): 0.0010001659393310547
+Iteration number  87  of 170
+           Running Circuit
+           time taken (seconds): 1124.4034781455994
+           Getting Results
+           time taken (seconds): 0.0009992122650146484
+Iteration number  88  of 170
+           Running Circuit
+           time taken (seconds): 0.0009996891021728516
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  89  of 170
+           Running Circuit
+           time taken (seconds): 1127.393530368805
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  90  of 170
+           Running Circuit
+           time taken (seconds): 1127.6654431819916
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  91  of 170
+           Running Circuit
+           time taken (seconds): 1125.243218421936
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  92  of 170
+           Running Circuit
+           time taken (seconds): 1129.0100133419037
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  93  of 170
+           Running Circuit
+           time taken (seconds): 1132.127017736435
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  94  of 170
+           Running Circuit
+           time taken (seconds): 1132.243968963623
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  95  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  96  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  97  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  98  of 170
+           Running Circuit
+           time taken (seconds): 1135.9097974300385
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  99  of 170
+           Running Circuit
+           time taken (seconds): 1151.5338025093079
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  100  of 170
+           Running Circuit
+           time taken (seconds): 1136.426630973816
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  101  of 170
+           Running Circuit
+           time taken (seconds): 1136.8884942531586
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  102  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  103  of 170
+           Running Circuit
+           time taken (seconds): 1126.266892194748
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  104  of 170
+           Running Circuit
+           time taken (seconds): 1126.4958176612854
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  105  of 170
+           Running Circuit
+           time taken (seconds): 1129.2219457626343
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  106  of 170
+           Running Circuit
+           time taken (seconds): 1128.5471529960632
+           Getting Results
+           time taken (seconds): 0.0009989738464355469
+Iteration number  107  of 170
+           Running Circuit
+           time taken (seconds): 1132.3919339179993
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  108  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0009996891021728516
+Iteration number  109  of 170
+           Running Circuit
+           time taken (seconds): 1135.7498586177826
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  110  of 170
+           Running Circuit
+           time taken (seconds): 1130.2566058635712
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  111  of 170
+           Running Circuit
+           time taken (seconds): 1134.2133402824402
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  112  of 170
+           Running Circuit
+           time taken (seconds): 1138.6429345607758
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  113  of 170
+           Running Circuit
+           time taken (seconds): 1119.031105518341
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  114  of 170
+           Running Circuit
+           time taken (seconds): 1122.3091461658478
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  115  of 170
+           Running Circuit
+           time taken (seconds): 0.0009999275207519531
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  116  of 170
+           Running Circuit
+           time taken (seconds): 0.0009996891021728516
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  117  of 170
+           Running Circuit
+           time taken (seconds): 1134.4862637519836
+           Getting Results
+           time taken (seconds): 0.0009996891021728516
+Iteration number  118  of 170
+           Running Circuit
+           time taken (seconds): 1151.771726846695
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  119  of 170
+           Running Circuit
+           time taken (seconds): 0.0009992122650146484
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  120  of 170
+           Running Circuit
+           time taken (seconds): 0.0009996891021728516
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  121  of 170
+           Running Circuit
+           time taken (seconds): 0.0009996891021728516
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  122  of 170
+           Running Circuit
+           time taken (seconds): 1121.7203454971313
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  123  of 170
+           Running Circuit
+           time taken (seconds): 1124.093576669693
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  124  of 170
+           Running Circuit
+           time taken (seconds): 1121.6473689079285
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  125  of 170
+           Running Circuit
+           time taken (seconds): 1130.0226809978485
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  126  of 170
+           Running Circuit
+           time taken (seconds): 1126.8726968765259
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  127  of 170
+           Running Circuit
+           time taken (seconds): 1078.7622978687286
+           Getting Results
+           time taken (seconds): 0.0009996891021728516
+40 524
+Iteration number  128  of 170
+           Running Circuit
+           time taken (seconds): 1130.8774070739746
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  129  of 170
+           Running Circuit
+           time taken (seconds): 1128.8040702342987
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  130  of 170
+           Running Circuit
+           time taken (seconds): 1130.37557721138
+           Getting Results
+           time taken (seconds): 0.0010001659393310547
+Iteration number  131  of 170
+           Running Circuit
+           time taken (seconds): 1131.1103429794312
+           Getting Results
+           time taken (seconds): 0.0010006427764892578
+Iteration number  132  of 170
+           Running Circuit
+           time taken (seconds): 1131.062358379364
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  133  of 170
+           Running Circuit
+           time taken (seconds): 1134.5122447013855
+           Getting Results
+           time taken (seconds): 0.0010004043579101562
+Iteration number  134  of 170
+           Running Circuit
+           time taken (seconds): 1134.8161475658417
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  135  of 170
+           Running Circuit
+           time taken (seconds): 1134.1853604316711
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  136  of 170
+           Running Circuit
+           time taken (seconds): 1131.4222340583801
+           Getting Results
+           time taken (seconds): 0.0009989738464355469
+Iteration number  137  of 170
+           Running Circuit
+           time taken (seconds): 1137.9171664714813
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  138  of 170
+           Running Circuit
+           time taken (seconds): 1151.6967604160309
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  139  of 170
+           Running Circuit
+           time taken (seconds): 1138.1580791473389
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  140  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  141  of 170
+           Running Circuit
+           time taken (seconds): 1124.3724970817566
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  142  of 170
+           Running Circuit
+           time taken (seconds): 0.0009999275207519531
+           Getting Results
+           time taken (seconds): 0.0
+4 509
+Iteration number  143  of 170
+           Making Circuit
+OK registers
+OK init
+OK index to values
+OK minor
+OK mark j
+OK Diffusion
+           time taken (seconds): 7.444619178771973
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  144  of 170
+           Running Circuit
+           time taken (seconds): 0.00099945068359375
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  145  of 170
+           Running Circuit
+           time taken (seconds): 2242.5979602336884
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  146  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  147  of 170
+           Running Circuit
+           time taken (seconds): 2226.512612581253
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  148  of 170
+           Running Circuit
+           time taken (seconds): 0.0009992122650146484
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  149  of 170
+           Running Circuit
+           time taken (seconds): 2257.1303050518036
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  150  of 170
+           Running Circuit
+           time taken (seconds): 2252.282863140106
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  151  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  152  of 170
+           Running Circuit
+           time taken (seconds): 0.0009894371032714844
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  153  of 170
+           Running Circuit
+           time taken (seconds): 2239.282009601593
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  154  of 170
+           Running Circuit
+           time taken (seconds): 2240.250709295273
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  155  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0010004043579101562
+Iteration number  156  of 170
+           Running Circuit
+           time taken (seconds): 0.0009999275207519531
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  157  of 170
+           Running Circuit
+           time taken (seconds): 2243.551654815674
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  158  of 170
+           Running Circuit
+           time taken (seconds): 0.0009891986846923828
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  159  of 170
+           Running Circuit
+           time taken (seconds): 2233.529456615448
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  160  of 170
+           Running Circuit
+           time taken (seconds): 2256.532504081726
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  161  of 170
+           Running Circuit
+           time taken (seconds): 2251.5291039943695
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  162  of 170
+           Running Circuit
+           time taken (seconds): 2234.6425030231476
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  163  of 170
+           Running Circuit
+           time taken (seconds): 2206.501004219055
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  164  of 170
+           Running Circuit
+           time taken (seconds): 2166.313385486603
+           Getting Results
+           time taken (seconds): 0.0009992122650146484
+Iteration number  165  of 170
+           Running Circuit
+           time taken (seconds): 2234.021691799164
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  166  of 170
+           Running Circuit
+           time taken (seconds): 2240.486623764038
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  167  of 170
+           Running Circuit
+           time taken (seconds): 2237.908449411392
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  168  of 170
+           Running Circuit
+           time taken (seconds): 2243.8415644168854
+           Getting Results
+           time taken (seconds): 0.0009970664978027344
+Iteration number  169  of 170
+           Running Circuit
+           time taken (seconds): 2243.758576631546
+           Getting Results
+           time taken (seconds): 0.0
+Iteration number  170  of 170
+           Running Circuit
+           time taken (seconds): 0.0
+           Getting Results
+           time taken (seconds): 0.0
+RESULT: 
+          index 4 
+          value 509
+Conformation from molecule given as input 1:  0 
+Conformation from molecule given as input 2:  4
+[0, 4]
